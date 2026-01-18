@@ -17,7 +17,7 @@ $ whoami
 
 ## Projects
 
-### MovieSir - AI 영화 추천 B2B API
+### [MovieSir](https://github.com/leelaeloo/MovieSir) - AI 영화 추천 B2B API
 
 > LightGCN + SBERT 하이브리드 추천 알고리즘 기반 B2B API 서비스
 
@@ -36,7 +36,7 @@ $ whoami
 
 ---
 
-### 읽어드림 - 어르신들을 위한 문서 읽어주기 앱
+### [읽어드림](https://github.com/leelaeloo/Senior-OCR-Project) - 어르신들을 위한 문서 읽어주기 앱
 
 > 시니어 친화 OCR PWA
 
