@@ -12,7 +12,7 @@
 - Docker 멀티스테이지 빌드로 이미지 95% 경량화
 
 **Security**
-- SSH 브루트포스 1,843건 탐지 → fail2ban으로 169개 IP 차단
+- SSH 브루트포스 5,227건 탐지 → fail2ban으로 299개 IP 차단
 - Bastion Host + ProxyJump로 Private Subnet GPU 서버 보안 강화
 - Nginx 리버스 프록시 + Let's Encrypt SSL 인증서 자동화
 - Redis 기반 세션 관리 및 API Rate Limiting 구현
