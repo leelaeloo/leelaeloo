@@ -21,6 +21,20 @@
 
 ---
 
+## Projects
+
+- [**MovieSir**](https://github.com/Movigation/MovieSir) - AI 영화 추천 B2B API 서비스 (인프라/CI-CD/보안 담당)
+- [**MovieSir-Infra**](https://github.com/leelaeloo/MovieSir-Infra) - 무비서 프로젝트 인프라 설정 정리 (Docker, CI/CD, Nginx)
+- [**읽어드림**](https://github.com/leelaeloo/Senior-OCR-Project) - 시니어 친화 OCR PWA 서비스
+
+---
+
+## Links
+
+- [Velog](https://velog.io/@leelaeloo/) - 클라우드 인프라 구축기 시리즈
+
+---
+
 ## Tech Stack
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -28,16 +42,3 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-## Projects
-
-- **MovieSir** - AI 영화 추천 B2B API 서비스 (인프라/CI-CD/보안 담당)
-- **읽어드림** - 시니어 친화 OCR PWA 서비스
-
----
-
-## Links
-
-- [Velog](https://velog.io/@leelaeloo/) - 클라우드 인프라 구축기 시리즈
